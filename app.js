@@ -3,4 +3,4 @@ console.log ("aplicacação está se conectando com o banco de dados")
 
 console.log ("Atualizando dados")
 
-console.log("conexão com banco de dados")
+console.log("Rodando o sistema")
