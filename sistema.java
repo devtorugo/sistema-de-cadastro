@@ -16,11 +16,14 @@ public class Main {
         System.out.println("Agora, digite o sexo do aluno: ");
         String Sexo = scanner.nextLine();
 
+        System.out.println("digite o telefone do aluno: ");
+        String telefone = scanner.next;
+
         System.out.println("Agora, digite a idade do aluno:");
         int idade = scanner.nextInt();
 
         boolean matriculado = true;
 
-        System.out.println("Nome: "+ nome + "\r\n, Idade:" + idade + "\r\n,Matriculado: " + matriculado + "\r\n,Sexo: " + Sexo);
+        System.out.println("Nome: "+ nome + "\r\n, Idade:" + idade + "\r\n,Matriculado: " + matriculado + "\r\n,Sexo: " + Sexo + "\r\n,telefone" + telefone);  
     }
 }
